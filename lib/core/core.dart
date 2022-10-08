@@ -1,0 +1,1 @@
+export 'package:flutter_tyba/core/services/api_service_university.dart';

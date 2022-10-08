@@ -1,0 +1,1 @@
+export 'package:flutter_tyba/feature/home/models/university_model.dart';
